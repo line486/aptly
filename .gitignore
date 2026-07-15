@@ -1,0 +1,11 @@
+*
+!.gitignore
+!Dockerfile
+!docker-entrypoint.sh
+!nginx.conf
+!aptly.list
+!docker-clean
+!LICENSE
+!README.md
+!.dockerignore
+!.github/**

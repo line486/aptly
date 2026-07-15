@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/keyrings/aptly.gpg] http://repo.aptly.info/release bookworm main
